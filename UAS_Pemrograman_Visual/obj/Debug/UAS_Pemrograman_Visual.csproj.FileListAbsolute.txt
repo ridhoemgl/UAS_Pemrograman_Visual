@@ -1,0 +1,11 @@
+D:\Project\UAS_Pemrograman_Visual\UAS_Pemrograman_Visual\bin\Debug\UAS_Pemrograman_Visual.exe.config
+D:\Project\UAS_Pemrograman_Visual\UAS_Pemrograman_Visual\bin\Debug\UAS_Pemrograman_Visual.exe
+D:\Project\UAS_Pemrograman_Visual\UAS_Pemrograman_Visual\bin\Debug\UAS_Pemrograman_Visual.pdb
+D:\Project\UAS_Pemrograman_Visual\UAS_Pemrograman_Visual\obj\Debug\UAS_Pemrograman_Visual.csproj.AssemblyReference.cache
+D:\Project\UAS_Pemrograman_Visual\UAS_Pemrograman_Visual\obj\Debug\UAS_Pemrograman_Visual.FormLogin.resources
+D:\Project\UAS_Pemrograman_Visual\UAS_Pemrograman_Visual\obj\Debug\UAS_Pemrograman_Visual.FormMainMenu.resources
+D:\Project\UAS_Pemrograman_Visual\UAS_Pemrograman_Visual\obj\Debug\UAS_Pemrograman_Visual.Properties.Resources.resources
+D:\Project\UAS_Pemrograman_Visual\UAS_Pemrograman_Visual\obj\Debug\UAS_Pemrograman_Visual.csproj.GenerateResource.cache
+D:\Project\UAS_Pemrograman_Visual\UAS_Pemrograman_Visual\obj\Debug\UAS_Pemrograman_Visual.csproj.CoreCompileInputs.cache
+D:\Project\UAS_Pemrograman_Visual\UAS_Pemrograman_Visual\obj\Debug\UAS_Pemrograman_Visual.exe
+D:\Project\UAS_Pemrograman_Visual\UAS_Pemrograman_Visual\obj\Debug\UAS_Pemrograman_Visual.pdb
